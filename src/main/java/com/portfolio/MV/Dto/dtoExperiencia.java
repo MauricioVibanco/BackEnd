@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package com.portfolio.MV.Dto;
-
 import javax.validation.constraints.NotBlank;
 
 public class dtoExperiencia {
@@ -41,4 +40,3 @@ public class dtoExperiencia {
     }
     
 }
-

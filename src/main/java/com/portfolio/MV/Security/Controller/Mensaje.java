@@ -4,6 +4,10 @@
  */
 package com.portfolio.MV.Security.Controller;
 
+/**
+ *
+ * @author Usuario
+ */
 public class Mensaje {
     private String mensaje;
     

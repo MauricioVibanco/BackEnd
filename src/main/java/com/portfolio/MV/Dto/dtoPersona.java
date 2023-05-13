@@ -7,6 +7,10 @@ package com.portfolio.MV.Dto;
 
 import javax.validation.constraints.NotBlank;
 
+/**
+ *
+ * @author Usuario
+ */
 public class dtoPersona {
     @NotBlank
     private String nombre;

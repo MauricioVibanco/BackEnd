@@ -47,4 +47,3 @@ public class SExperiencia {
          return rExperiencia.existsByNombreE(nombreE);
      }
 }
-
