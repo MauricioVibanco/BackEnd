@@ -19,6 +19,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+
+
 @RestController
 @CrossOrigin(origins = {"https://backendmv-jbar.onrender.com","http://localhost:4200"})
 @RequestMapping("/skill")
