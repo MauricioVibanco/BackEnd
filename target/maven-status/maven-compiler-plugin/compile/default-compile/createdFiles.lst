@@ -9,6 +9,7 @@ com\portfolio\MV\Security\Dto\NuevoUsuario.class
 com\portfolio\MV\Entity\Experiencia.class
 com\portfolio\MV\Repository\Rhys.class
 com\portfolio\MV\Security\Entity\Usuario.class
+com\portfolio\MV\MvApplication$1.class
 com\portfolio\MV\Service\ImpPersonaService.class
 com\portfolio\MV\Controller\CHys.class
 com\portfolio\MV\Entity\hys.class
