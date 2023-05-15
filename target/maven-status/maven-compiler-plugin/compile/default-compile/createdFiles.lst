@@ -30,7 +30,6 @@ com\portfolio\MV\Security\Entity\UsuarioPrincipal.class
 com\portfolio\MV\Security\Repository\iRolRepository.class
 com\portfolio\MV\Dto\dtoExperiencia.class
 com\portfolio\MV\Security\MainSecurity.class
-com\portfolio\MV\Interface\IPersonaService.class
 com\portfolio\MV\Security\Controller\AuthController.class
 com\portfolio\MV\Security\jwt\JwtProvider.class
 com\portfolio\MV\Controller\PersonaController.class

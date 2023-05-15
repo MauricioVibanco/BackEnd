@@ -1,7 +1,6 @@
 package com.portfolio.MV.Service;
 
 import com.portfolio.MV.Entity.Persona;
-import com.portfolio.MV.Interface.IPersonaService;
 import com.portfolio.MV.Repository.IPersonaRepository;
 import java.util.List;
 import java.util.Optional;
